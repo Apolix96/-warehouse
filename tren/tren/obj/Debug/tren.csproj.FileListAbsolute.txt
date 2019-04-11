@@ -1,0 +1,7 @@
+C:\Users\Андрон\source\repos\tren\tren\bin\Debug\tren.exe.config
+C:\Users\Андрон\source\repos\tren\tren\bin\Debug\tren.exe
+C:\Users\Андрон\source\repos\tren\tren\bin\Debug\tren.pdb
+C:\Users\Андрон\source\repos\tren\tren\obj\Debug\tren.csproj.CoreCompileInputs.cache
+C:\Users\Андрон\source\repos\tren\tren\obj\Debug\tren.exe
+C:\Users\Андрон\source\repos\tren\tren\obj\Debug\tren.pdb
+C:\Users\Андрон\source\repos\tren\tren\obj\Debug\tren.csprojAssemblyReference.cache
